@@ -15,9 +15,6 @@ Grey dark 2: #777
 Grey dark 3: #999
 
 */
-
-.testing{
-    span{
-        color: aqua;
-    }
-} 
+.testing span {
+  color: aqua;
+}/*# sourceMappingURL=main.css.map */
